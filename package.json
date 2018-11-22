@@ -1,0 +1,19 @@
+{
+  "name": "universal-user-registration-system",
+  "version": "1.0.0",
+  "description": "Universal User Registration System – NodeJS React Apollo GraphQL JWT MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJS",
+    "React",
+    "Apollo",
+    "GraphQL",
+    "JWT",
+    "MongoDB"
+  ],
+  "author": "Andrei Ghervan",
+  "license": "ISC"
+}
