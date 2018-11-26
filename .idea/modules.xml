@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/universal-user-registration-system.iml" filepath="$PROJECT_DIR$/.idea/universal-user-registration-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Universal-React-Apollo-Registration.iml" filepath="$PROJECT_DIR$/.idea/Universal-React-Apollo-Registration.iml" />
     </modules>
   </component>
 </project>
