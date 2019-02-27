@@ -12,12 +12,6 @@ As the Demo is hosted on a free Heroku account, the servers its hosted on enter 
 
 ### YouTube Video Tutorials
 
-##### Introduction (Getting started)
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=11C_TDB3Ijw" target="_blank">
-	<img src="http://img.youtube.com/vi/11C_TDB3Ijw/0.jpg" width="240" height="180" />
-</a>
-
 ### System includes:
 
 
